@@ -7,7 +7,7 @@ I'm currently studying a Bachelor of Science majoring in Computer Science 🎓 A
 
 Joined Github **2** years ago.
 
-Since then I pushed **2096**+ commits, opened **229**+ issues, submitted **267**+ pull requests, created **20**+ gists and contributed to **21**+ public repositories.
+Since then I pushed **411**+ commits and opened **11**+ issues (on this non-work Github account).
 
 ### Talking about Personal Stuff:
 
