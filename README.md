@@ -3,11 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maysen-greenwood/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://maysengreenwood.com)
 
-I'm a recent graduate of a Bachelor of Science majoring in Computer Science 🎓 at Massey University 🏛. I'm very passtionate about all things coding/programming, and enjoy being able to build progressivly impressive apps using web development frameworks. I work as a **Plus Front End Developer** at **Shopify** where I implement complex customizations to fit the needs of the worlds largest online businesses.
+I'm a graduate of a Bachelor of Science majoring in Computer Science 🎓 at Massey University 🏛. I'm very passtionate about all things coding/programming, and enjoy being able to build progressively impressive apps using web development frameworks. I work as an **Intermediate Developer** at **Henry Schein One** where I build end to end features such as the Ministry of Health claims management dashboard, and clinical prescriptions.
 
-Joined Github **2** years ago.
-
-Since then I pushed **411**+ commits and opened **11**+ issues (on this non-work Github account).
+Joined Github **5** years ago.
 
 ### Talking about Personal Stuff:
 
